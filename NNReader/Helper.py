@@ -59,7 +59,7 @@ def get_embedding_txt(embedding_path=None):
             if char.decode('utf-8') in char2id.keys():
                 emb_matrix[char2id[char.decode('utf-8')]] = emb_vec
     return emb_matrix, char2id, id2char
-
+ 
 
 def build_map_txt(embedding_path):
     """
