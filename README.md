@@ -16,8 +16,7 @@ This project reproduces four paper about neural network neaders
 | Accuracy |      54.0%      |   48.9%   |   43.7%  |        46.1%       |
 
 ### Author
-|Author|Jiarun Cao|
-|---|---
+|Author|Jiarun Cao
 |Advisor|Prof.JunZhao
 |E-mail|Jiaruncao.china@Gmail.com
 |Address|NLPR@Chinese Academic of Science
