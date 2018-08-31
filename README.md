@@ -18,8 +18,7 @@ This project reproduces four paper about neural network neaders
 ### Author
 |Author|Jiarun Cao|
 |---|---
-|E-mail|Jiaruncao.china@Gmail.com
-|---|---
 |Advisor|Prof.JunZhao
-
+|E-mail|Jiaruncao.china@Gmail.com
+|Address|NLPR@Chinese Academic of Science
 
