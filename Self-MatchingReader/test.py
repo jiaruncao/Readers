@@ -46,5 +46,5 @@ if __name__ == '__main__':
                 iters += 1
             costs /= iters
             accuracy /= iters
-
+ 
             print ('Test Acc is %.2f ' % accuracy)
