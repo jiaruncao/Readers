@@ -33,7 +33,7 @@ def get_embedding_txt(embedding_path=None):
         id2char = pickle.load(open(id2char_path, "rb"))
     else:
         char2id, id2char = build_map(embedding_path)
-
+ 
     row_index = 0
 
     if not embedding_path:
