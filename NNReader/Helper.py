@@ -95,7 +95,7 @@ def generate_alter_model_reader_input(data, char2id):
     """
     doc_max_len = 0
     query_max_len = 0
-
+ 
     X = []
     Xq = []
     Y = []
