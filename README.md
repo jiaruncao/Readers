@@ -1,5 +1,5 @@
 # Readers
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
+![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)  
 Neural Network Readers for Machine Reading Comprehension  
 ### Related Works
 This project reproduces four paper about neural network neaders  
