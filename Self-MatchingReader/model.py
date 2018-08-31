@@ -32,7 +32,7 @@ class Readers_Model(object):
 
         #得到embedding tensor
         inputs = tf.nn.embedding_lookup(self.word_embeddings,self.fact_placeholder)
-
+ 
         #4维到3维
         inputs = tf.unstack(inputs,axis = 1)
         fact_state_list =[]
