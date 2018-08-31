@@ -34,7 +34,7 @@ if __name__ == '__main__':
         model_saver = tf.train.Saver(tf.global_variables())
 
         for i in range(100):
-
+ 
             costs = 0.0
             iters = 0
             accuracy = 0.0
