@@ -11,7 +11,7 @@ This project reproduces four paper about neural network neaders
   
 ### Result
 #### Dataset  
-Chinese college entrance examination history choice question
+Chinese college entrance examination history choice question  
 |          | IterativeReader | SeaReader | NNReader | Self-MatchingReader|
 | -------- |:---------------:|:---------:|:--------:|:------------------:|
 | Accuracy |      54.0%      |   48.9%   |   43.7%  |        46.1%       |
