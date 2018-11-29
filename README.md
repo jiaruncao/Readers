@@ -14,9 +14,9 @@ This project reproduces four paper about neural network readers
 Chinese college entrance examination history choice question  
   
   
-|          | IterativeReader | SeaReader | NNReader | Self-MatchingReader|
-| -------- |:---------------:|:---------:|:--------:|:------------------:|
-| Accuracy |      54.0%      |   48.9%   |   43.7%  |        46.1%       |
+|          | IterativeReader | SeaReader | NNReader | Self-MatchingReader| State-of-art Method|
+| -------- |:---------------:|:---------:|:--------:|:------------------:|:------------------:|
+| Accuracy |      54.0%      |   48.9%   |   43.7%  |        46.1%       |         46.3%      |
 
 ### Author
 |Author|Jiarun Cao
