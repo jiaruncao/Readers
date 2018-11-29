@@ -2,7 +2,7 @@
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)  
 #### Neural Network Readers for Machine Reading Comprehension  
 ### Related Works
-This project reproduces four paper about neural network neaders  
+This project reproduces four paper about neural network readers  
 - [Iterative Alternating Neural Attention for Machine Reading](https://arxiv.org/abs/1606.02245)
 - [Seareaders](http://cn.arxiv.org/abs/1802.10279)
 - [Towards Neural Network-based Reasoning](https://arxiv.org/abs/1508.05508)
